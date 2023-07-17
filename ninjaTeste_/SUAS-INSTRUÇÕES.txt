@@ -1,0 +1,3 @@
+Caros boa noite! Finalizei a parte principal dos requisitos do teste, frente aos requisitos de saída de dados e ETL,
+ainda vou tentar resolver a parte bonus para praticar ainda mais na linguagem, peço desculpas pela estrutura de pastas do projeto
+vou trabalhar para melhorar esta parte. E gostaria de agradecê-los pela oportunidade!
