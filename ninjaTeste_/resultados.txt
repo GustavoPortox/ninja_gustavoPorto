@@ -1,0 +1,6 @@
+ Posição Chegada ; Código Piloto ; Nome Piloto ; Qtde Voltas Completadas ; Tempo Total de Prova
+1 ; 038 ; F.MASSA ; 4 ; 04:11.000
+2 ; 002 ; K.RAIKKONEN ; 4 ; 04:15.000
+3 ; 033 ; R.BARRICHELLO ; 4 ; 04:16.000
+4 ; 023 ; M.WEBBER ; 4 ; 04:17.000
+5 ; 015 ; F.ALONSO ; 4 ; 04:54.000
