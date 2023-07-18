@@ -115,35 +115,4 @@ public class NinjaTeste {
             System.err.println("Erro ao ler o arquivo de entrada: " + e.getMessage());
         }
     }
-
-
-    private static class Resultado {
-        private String codigoPiloto;
-        private String nomePiloto;
-        private int voltasCompletadas;
-        private String tempoTotalProva;
-
-        public Resultado(String codigoPiloto, String nomePiloto, int voltasCompletadas, String tempoTotalProva) {
-            this.codigoPiloto = codigoPiloto;
-            this.nomePiloto = nomePiloto;
-            this.voltasCompletadas = voltasCompletadas;
-            this.tempoTotalProva = tempoTotalProva;
-        }
-
-        public String getCodigoPiloto() {
-            return codigoPiloto;
-        }
-
-        public String getNomePiloto() {
-            return nomePiloto;
-        }
-
-        public int getVoltasCompletadas() {
-            return voltasCompletadas;
-        }
-
-        public String getTempoTotalProva() {
-            return tempoTotalProva;
-        }
-    }
 }
